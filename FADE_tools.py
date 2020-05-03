@@ -2,8 +2,6 @@
 """
 Created on Thu Apr  2 10:10:12 2020
 
-@author: Peifeng SU
-
 original comments:
     % Input 
     % I: input image    
